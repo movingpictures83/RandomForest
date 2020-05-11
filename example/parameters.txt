@@ -1,0 +1,3 @@
+training	plugins/RandomForest/example/ViralChallenge_training_EXPRESSION_RMA.tsv
+clinical	plugins/RandomForest/example/ViralChallenge_training_CLINICAL.tsv
+prefix		plugins/RandomForest/example/ChosenGenes_

@@ -2,7 +2,8 @@
 # Language: R
 # Input: TXT (parameters)
 # Output: CSV (optimal parameters)
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: randomForest_4.6.14, rpart_4.1.15, rattle_5.4.0, caret_6.0.86
 
 PluMA plugin that attempts to classify a set of viral samples 
 using a random forest algorithm (Liaw and Wiener, 2002), merging as input both 
